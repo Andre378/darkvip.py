@@ -1,2 +1,2 @@
-# darkvip.py
+# darkvip
 Python
